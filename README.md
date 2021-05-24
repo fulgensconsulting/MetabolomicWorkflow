@@ -5,7 +5,9 @@ Project sample of metabolomics bioinformatic workflow from .raw files through si
 ### Study
 
 __Project Title__: Identification of biomarkers in schistosomiasis and associated bladder cancer and pathologies in Eggua, Nigeria
+
 __DOI__: doi: 10.21228/M85M3S
+
 __Summary__: The aim of the project is to develop biomarkers that will aid the search for new therapeutic or diagnostic targets for schistosomiasis and its induced bladder pathologies or cancer. Blood and urine samples from individuals were collected in Eggua, Nigeria for subsequent metabolomics, proteomics and genomics characterization
 ### Objective
 
